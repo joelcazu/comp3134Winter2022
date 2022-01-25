@@ -1,0 +1,54 @@
+*** 1000 TCP ports ***
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap 186.192.90.5
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-01-25 04:05 UTC
+Nmap scan report for redirect.globo.com (186.192.90.5)
+Host is up (0.15s latency).
+Not shown: 998 filtered ports
+PORT    STATE  SERVICE
+80/tcp  open   http
+443/tcp closed https
+
+Nmap done: 1 IP address (1 host up) scanned in 10.64 seconds
+
+*** To scan a single Port ***
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -p 80 186.192.90.5
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-01-25 04:11 UTC
+Nmap scan report for 186-192-90-5.prt.globo.com (186.192.90.5)
+Host is up (0.15s latency).
+
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 0.39 seconds
+
+*** To scan a range of ports ***
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -p 1-1000 186.192.90.5
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-01-25 04:12 UTC
+Nmap scan report for 186-192-90-5.prt.globo.com (186.192.90.5)
+Host is up (0.15s latency).
+Not shown: 998 filtered ports
+PORT    STATE  SERVICE
+80/tcp  open   http
+443/tcp closed https
+
+Nmap done: 1 IP address (1 host up) scanned in 11.36 seconds
+
+*** To scan 100 most common ports (Fast) ***
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -F 186.192.90.5
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-01-25 04:14 UTC
+Nmap scan report for 186-192-90-5.prt.globo.com (186.192.90.5)
+Host is up (0.15s latency).
+Not shown: 98 filtered ports
+PORT    STATE  SERVICE
+80/tcp  open   http
+443/tcp closed https
+
+Nmap done: 1 IP address (1 host up) scanned in 5.12 seconds
+
+
+
+
