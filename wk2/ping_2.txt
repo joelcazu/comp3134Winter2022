@@ -1,0 +1,17 @@
+➜  ~ git:(main) ✗ ping 151.101.129.67
+PING 151.101.129.67 (151.101.129.67): 56 data bytes
+64 bytes from 151.101.129.67: icmp_seq=0 ttl=58 time=16.696 ms
+64 bytes from 151.101.129.67: icmp_seq=1 ttl=58 time=19.104 ms
+64 bytes from 151.101.129.67: icmp_seq=2 ttl=58 time=18.227 ms
+64 bytes from 151.101.129.67: icmp_seq=3 ttl=58 time=17.489 ms
+64 bytes from 151.101.129.67: icmp_seq=4 ttl=58 time=19.503 ms
+64 bytes from 151.101.129.67: icmp_seq=5 ttl=58 time=18.592 ms
+64 bytes from 151.101.129.67: icmp_seq=6 ttl=58 time=16.317 ms
+64 bytes from 151.101.129.67: icmp_seq=7 ttl=58 time=18.489 ms
+64 bytes from 151.101.129.67: icmp_seq=8 ttl=58 time=18.107 ms
+64 bytes from 151.101.129.67: icmp_seq=9 ttl=58 time=18.283 ms
+64 bytes from 151.101.129.67: icmp_seq=10 ttl=58 time=15.892 ms
+^C
+--- 151.101.129.67 ping statistics ---
+11 packets transmitted, 11 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 15.892/17.882/19.503/1.099 ms
