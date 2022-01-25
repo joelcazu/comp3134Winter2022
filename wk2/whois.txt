@@ -1,0 +1,288 @@
+1 - Domain Name: georgebrown.ca
+Registry Domain ID: D121739-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.webnames.ca
+Updated Date: 2022-01-22T16:03:59Z
+Creation Date: 2002-07-04T08:35:23Z
+Registry Expiry Date: 2022-07-04T04:00:00Z
+Registrar: Webnames.ca Inc.
+Registrar IANA ID: 456
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: R21312-CIRA
+Registrant Name: George Brown College (Toronto)
+Registrant Organization:
+Registrant Street: P.O. Box 1015 Station B
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M5T2T9
+Registrant Country: CA
+Registrant Phone: +1.4164155000
+Registrant Phone Ext: 5012
+Registrant Fax: +1.4164154667
+Registrant Fax Ext:
+Registrant Email: email@georgebrown.ca
+Registry Admin ID: C883431-CIRA
+Admin Name: Andrew Riem
+Admin Organization: George Brown College
+Admin Street: P.O. Box 1015 Station B
+Admin City: Toronto
+Admin State/Province: ON
+Admin Postal Code: M5T2T9
+Admin Country: CA
+Admin Phone: +1.4164155000
+Admin Phone Ext: 5012
+Admin Fax: +1.4164154667
+Admin Fax Ext:
+Admin Email: email@georgebrown.ca
+Registry Tech ID: C883432-CIRA
+Tech Name: Dorin Grunberg
+Tech Organization: George Brown College
+Tech Street: P.O. Box 1015 Station B
+Tech City: Toronto
+Tech State/Province: ON
+Tech Postal Code: M5T2T9
+Tech Country: CA
+Tech Phone: +1.4164155000
+Tech Phone Ext: 4935
+Tech Fax: +1.4164154836
+Tech Fax Ext:
+Tech Email: email@georgebrown.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns1.d-zone.ca
+Name Server: ns1.georgebrown.ca
+Name Server: ns2.d-zone.ca
+Name Server: ns2.georgebrown.ca
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+
+2 - Domain Name: forbes.com
+Registry Domain ID: 3482728_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2017-12-23T22:11:09+0000
+Creation Date: 1993-06-17T07:00:00+0000
+Registrar Registration Expiration Date: 2022-06-16T04:00:00+0000
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: email@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895770
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Registrant Organization: Forbes Media LLC
+Registrant State/Province: NY
+Registrant Country: US
+Registrant Email: Select Request Email Form at https://domains.markmonitor.com/whois/forbes.com
+Admin Organization: Forbes Media LLC
+Admin State/Province: NY
+Admin Country: US
+Admin Email: Select Request Email Form at https://domains.markmonitor.com/whois/forbes.com
+Tech Organization: Forbes Media LLC
+Tech State/Province: NY
+Tech Country: US
+Tech Email: Select Request Email Form at https://domains.markmonitor.com/whois/forbes.com
+Name Server: ns-1637.awsdns-12.co.uk
+Name Server: ns-1028.awsdns-00.org
+Name Server: ns-217.awsdns-27.com
+Name Server: ns-979.awsdns-58.net
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+
+3 - Domain Name: RBCROYALBANK.COM
+Registry Domain ID: 40342552_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.brandsight.com
+Registrar URL: https://gcd.com
+Updated Date: 2021-10-12 19:53:19
+Creation Date: 2000-11-09 05:10:47
+Registrar Registration Expiration Date: 2022-11-09 05:10:47
+Registrar: GoDaddy Corporate Domains, LLC
+Registrar IANA ID: 3786
+Registrar Abuse Contact Email: email@gcd.com
+Registrar Abuse Contact Phone: +1.5188315864
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Domain Status: serverDeleteProhibited http://www.icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited http://www.icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited http://www.icann.org/epp#serverUpdateProhibited
+Registry Registrant ID:
+Registrant Name: RBC ROYAL BANK OF CANADA
+Registrant Organization: ROYAL BANK OF CANADA
+Registrant Street: 330 FRONT STREET WEST 8TH FLOOR 
+Registrant City: TORONTO
+Registrant State/Province: ON
+Registrant Postal Code: M5V 0G5
+Registrant Country: CA
+Registrant Phone: +1.4163485121
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: email@RBC.COM
+Registry Admin ID:
+Admin Name: RBC ROYAL BANK OF CANADA
+Admin Organization: ROYAL BANK OF CANADA
+Admin Street: 330 FRONT STREET WEST 8TH FLOOR 
+Admin City: TORONTO
+Admin State/Province: ON
+Admin Postal Code: M5V 0G5
+Admin Country: CA
+Admin Phone: +1.4163485121
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: email@RBC.COM
+Registry Tech ID:
+Tech Name: RBC ROYAL BANK OF CANADA
+Tech Organization: ROYAL BANK OF CANADA
+Tech Street: 330 FRONT STREET WEST 8TH FLOOR 
+Tech City: TORONTO
+Tech State/Province: ON
+Tech Postal Code: M5V 0G5
+Tech Country: CA
+Tech Phone: +1.4163485121
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: email@RBC.COM
+Name Server: edns3.ultradns.net
+Name Server: edns3.ultradns.com
+Name Server: edns3.ultradns.biz
+Name Server: edns3.ultradns.org
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.
+
+4 - Domain Name: apple.com
+Registry Domain ID: 1225976_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.corporatedomains.com
+Registrar URL: www.cscprotectsbrands.com
+Updated Date: 2021-02-16T01:26:20Z
+Creation Date: 1987-02-19T00:00:00Z
+Registrar Registration Expiration Date: 2022-02-20T05:00:00Z
+Registrar: CSC CORPORATE DOMAINS, INC.
+Sponsoring Registrar IANA ID: 299
+Registrar Abuse Contact Email: email@cscglobal.com
+Registrar Abuse Contact Phone: +1.8887802723
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Domain Status: serverDeleteProhibited http://www.icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited http://www.icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited http://www.icann.org/epp#serverUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: Domain Administrator
+Registrant Organization: Apple Inc.
+Registrant Street: One Apple Park Way
+Registrant City: Cupertino
+Registrant State/Province: CA
+Registrant Postal Code: 95014
+Registrant Country: US
+Registrant Phone: +1.4089961010
+Registrant Phone Ext: 
+Registrant Fax: +1.4089741560
+Registrant Fax Ext: 
+Registrant Email: email@apple.com
+Registry Admin ID: 
+Admin Name: Domain Administrator
+Admin Organization: Apple Inc.
+Admin Street: One Apple Park Way
+Admin City: Cupertino
+Admin State/Province: CA
+Admin Postal Code: 95014
+Admin Country: US
+Admin Phone: +1.4089961010
+Admin Phone Ext: 
+Admin Fax: +1.4089741560
+Admin Fax Ext: 
+Admin Email: email@apple.com
+Registry Tech ID: 
+Tech Name: Domain Administrator
+Tech Organization: Apple Inc.
+Tech Street: One Apple Park Way
+Tech City: Cupertino
+Tech State/Province: CA
+Tech Postal Code: 95014
+Tech Country: US
+Tech Phone: +1.4089961010
+Tech Phone Ext: 
+Tech Fax: +1.4089741560
+Tech Fax Ext: 
+Tech Email: email@apple.com
+Name Server: b.ns.apple.com
+Name Server: a.ns.apple.com
+Name Server: c.ns.apple.com
+Name Server: d.ns.apple.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+
+5 - Domain Name: aircanada.com
+Registry Domain ID: 61107653_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.corporatedomains.com
+Registrar URL: www.cscprotectsbrands.com
+Updated Date: 2021-02-10T01:19:51Z
+Creation Date: 2001-02-14T06:45:36Z
+Registrar Registration Expiration Date: 2022-02-14T11:45:36Z
+Registrar: CSC CORPORATE DOMAINS, INC.
+Sponsoring Registrar IANA ID: 299
+Registrar Abuse Contact Email: email@cscglobal.com
+Registrar Abuse Contact Phone: +1.8887802723
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Domain Status: serverDeleteProhibited http://www.icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited http://www.icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited http://www.icann.org/epp#serverUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: Administrator Domain
+Registrant Organization: Air Canada
+Registrant Street: 6001 Grant McConachie Way
+Registrant City: Vancouver
+Registrant State/Province: BC
+Registrant Postal Code: V7B 1K3
+Registrant Country: CA
+Registrant Phone: +1.6042705546
+Registrant Phone Ext: 
+Registrant Fax: +1.6042705059
+Registrant Fax Ext: 
+Registrant Email: email@aircanada.ca
+Registry Admin ID: 
+Admin Name: Administrator Domain
+Admin Organization: Air Canada
+Admin Street: 6001 Grant McConachie Way
+Admin City: Vancouver
+Admin State/Province: BC
+Admin Postal Code: V7B 1K3
+Admin Country: CA
+Admin Phone: +1.6042705546
+Admin Phone Ext: 
+Admin Fax: +1.6042705059
+Admin Fax Ext: 
+Admin Email: email@aircanada.ca
+Registry Tech ID: 
+Tech Name: Administrator Domain
+Tech Organization: Air Canada
+Tech Street: 6001 Grant McConachie Way
+Tech City: Vancouver
+Tech State/Province: BC
+Tech Postal Code: V7B 1K3
+Tech Country: CA
+Tech Phone: +1.6042705546
+Tech Phone Ext: 
+Tech Fax: +1.6042705059
+Tech Fax Ext: 
+Tech Email: email@aircanada.ca
+Name Server: a1-4.akam.net
+Name Server: a11-65.akam.net
+Name Server: a12-66.akam.net
+Name Server: a20-67.akam.net
+Name Server: a8-65.akam.net
+Name Server: a3-64.akam.net
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
