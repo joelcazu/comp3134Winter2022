@@ -1,0 +1,16 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# ping 200.147.3.157
+PING 200.147.3.157 (200.147.3.157) 56(84) bytes of data.
+64 bytes from 200.147.3.157: icmp_seq=1 ttl=244 time=121 ms
+64 bytes from 200.147.3.157: icmp_seq=2 ttl=244 time=120 ms
+64 bytes from 200.147.3.157: icmp_seq=3 ttl=244 time=120 ms
+64 bytes from 200.147.3.157: icmp_seq=4 ttl=244 time=120 ms
+64 bytes from 200.147.3.157: icmp_seq=5 ttl=244 time=120 ms
+64 bytes from 200.147.3.157: icmp_seq=6 ttl=244 time=120 ms
+64 bytes from 200.147.3.157: icmp_seq=7 ttl=244 time=120 ms
+64 bytes from 200.147.3.157: icmp_seq=8 ttl=244 time=120 ms
+64 bytes from 200.147.3.157: icmp_seq=9 ttl=244 time=120 ms
+64 bytes from 200.147.3.157: icmp_seq=10 ttl=244 time=120 ms
+^C
+--- 200.147.3.157 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9011ms
+rtt min/avg/max/mdev = 119.865/120.084/121.035/0.320 ms
