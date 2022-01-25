@@ -1,0 +1,53 @@
+1- Domain Name: uol.com.br
+
+Top Level Domain: BR (Brazil)
+
+DNS Lookup
+
+IP Address: 200.147.3.157
+
+Geolocation: BR (Brazil), N/A, N/A, N/A N/A 
+
+2- Domain Name: rogers.com
+
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+
+IP Address: 40.85.218.2
+
+Geolocation: CA (Canada), ON, Ontario, M6G Toronto 
+
+3- Domain Name: tiktok.com
+
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+
+IP Address: 13.225.63.71
+
+Geolocation: US (United States), CT, Connecticut, 06850 Norwalk 
+
+4- Domain Name: g1.com.br
+
+Top Level Domain: BR (Brazil)
+
+DNS Lookup
+
+IP Address: 186.192.90.5
+
+Geolocation: BR (Brazil), 21, Rio de Janeiro, N/A Rio De Janeiro
+
+5- Domain Name: cnn.com
+
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+
+IP Address: 151.101.129.67
+
+Geolocation: US (United States), CA, California, 94107 San Francisco
+
+
+
+
