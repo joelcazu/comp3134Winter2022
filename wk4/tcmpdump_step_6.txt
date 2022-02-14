@@ -1,0 +1,206 @@
+
+To delete this message of the day: rm -rf /etc/update-motd.d/99-one-click
+Last login: Mon Feb 14 20:01:13 2022 from 198.211.111.194
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0070:  6f63 6561 6e03 636f 6d00 0a68 6f73 746d  ocean.com..hostm
+.
+        0x0010:  0034 1dd5 4000 3306 e327 c6d3 6fc2 8ac5  .4..@.3..'..o..0x0070:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0080:  6173 7465 72c0 1062 0805 9a00 002a 3000  aster..b.....*0.
+0x0080:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0090:  000e 1000 093a 8000 0007 08              .....:.....
+0x0090:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# 20:01:18.080567 IP 67.207.67.3.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.38103: 38909 NXDomain 0/1/0 (113)
+-bash: syntax error near unexpected token `('
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0000:  6263 de76 393f fe00 0000 0101 0800 4500  bc.v9?........E.
+0x0000:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0010:  008d 4c45 0000 3c11 9b17 43cf 4303 8ac5  ..LE..<...C.C...
+-bash: ...C.C...: No such file or directory
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0020:  856c 0035 94d7 0079 7d0e 97fd 8183 0001  .l.5...y}.......
+0x0020:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0030:  0000 0001 0000 0331 3038 0331 3333 0331  .......108.133.1
+0x0030:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0040:  3937 0331 3338 0769 6e2d 6164 6472 0461  97.138.in-addr.a
+0x0040:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0050:  7270 6100 000c 0001 c010 0006 0001 0000  rpa.............
+0x0050:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0060:  06d9 0037 036e 7331 0c64 6967 6974 616c  ...7.ns1.digital
+0x0060:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0070:  6f63 6561 6e03 636f 6d00 0a68 6f73 746d  ocean.com..hostm
+0x0070:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0080:  6173 7465 72c0 1062 0805 9a00 002a 3000  aster..b.....*0.
+0x0080:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0090:  000e 1000 093a 8000 0007 08              .....:.....
+0x0090:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# 20:01:18.080725 IP 67.207.67.3.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.42887: 40866 NXDomain 0/1/0 (113)
+-bash: syntax error near unexpected token `('
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0000:  6263 de76 393f fe00 0000 0101 0800 4500  bc.v9?........E.
+0x0000:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0010:  008d 4c46 0000 3c11 9b16 43cf 4303 8ac5  ..LF..<...C.C...
+-bash: ...C.C...: No such file or directory
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0020:  856c 0035 a787 0079 62b9 9fa2 8183 0001  .l.5...yb.......
+0x0020:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0030:  0000 0001 0000 0331 3038 0331 3333 0331  .......108.133.1
+0x0030:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0040:  3937 0331 3338 0769 6e2d 6164 6472 0461  97.138.in-addr.a
+0x0040:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0050:  7270 6100 000c 0001 c010 0006 0001 0000  rpa.............
+0x0050:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0060:  06d9 0037 036e 7331 0c64 6967 6974 616c  ...7.ns1.digital
+0x0060:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0070:  6f63 6561 6e03 636f 6d00 0a68 6f73 746d  ocean.com..hostm
+0x0070:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0080:  6173 7465 72c0 1062 0805 9a00 002a 3000  aster..b.....*0.
+0x0080:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0090:  000e 1000 093a 8000 0007 08              .....:.....
+0x0090:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# 20:01:18.081816 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.54468 > 67.207.67.3.domain: 48790+ [1au] PTR? 194.111.211.198.in-addr.arpa. (57)
+-bash: syntax error near unexpected token `('
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0000:  fe00 0000 0101 6263 de76 393f 0800 4500  ......bc.v9?..E.
+0x0000:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0010:  0055 f452 4000 4011 af41 8ac5 856c 43cf  .U.R@.@..A...lC.
+0x0010:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0020:  4303 d4c4 0035 0041 9756 be96 0100 0001  C....5.A.V......
+0x0020:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0030:  0000 0000 0001 0331 3934 0331 3131 0332  .......194.111.2
+0x0030:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0040:  3131 0331 3938 0769 6e2d 6164 6472 0461  11.198.in-addr.a
+0x0040:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0050:  7270 6100 000c 0001 0000 2902 0000 0000  rpa.......).....
+-bash: syntax error near unexpected token `)'
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0060:  0000 00                                  ...
+0x0060:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# 20:01:18.081936 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.59829 > 67.207.67.3.domain: 65416+ [1au] PTR? 194.111.211.198.in-addr.arpa. (57)
+-bash: syntax error near unexpected token `('
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0000:  fe00 0000 0101 6263 de76 393f 0800 4500  ......bc.v9?..E.
+0x0000:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0010:  0055 f453 4000 4011 af40 8ac5 856c 43cf  .U.S@.@..@...lC.
+0x0010:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0020:  4303 e9b5 0035 0041 9756 ff88 0100 0001  C....5.A.V......
+0x0020:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0030:  0000 0000 0001 0331 3934 0331 3131 0332  .......194.111.2
+0x0030:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0040:  3131 0331 3938 0769 6e2d 6164 6472 0461  11.198.in-addr.a
+0x0040:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0050:  7270 6100 000c 0001 0000 2902 0000 0000  rpa.......).....
+-bash: syntax error near unexpected token `)'
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0060:  0000 00                                  ...
+0x0060:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# 20:01:18.082052 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.55155 > 67.207.67.3.domain: 37216+ [1au] PTR? 194.111.211.198.in-addr.arpa. (57)
+-bash: syntax error near unexpected token `('
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0000:  fe00 0000 0101 6263 de76 393f 0800 4500  ......bc.v9?..E.
+0x0000:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0010:  0055 f454 4000 4011 af3f 8ac5 856c 43cf  .U.T@.@..?...lC.
+0x0010:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0020:  4303 d773 0035 0041 9756 9160 0100 0001  C..s.5.A.V.`....
+>         0x0030:  0000 0000 0001 0331 3934 0331 3131 0332  .......194.111.2
+>         0x0040:  3131 0331 3938 0769 6e2d 6164 6472 0461  11.198.in-addr.a
+>         0x0050:  7270 6100 000c 0001 0000 2902 0000 0000  rpa.......).....
+>         0x0060:  0000 00                                  ...
+> 20:01:18.089057 IP 198.211.111.194.11302 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 129, win 501, options [nop,nop,TS val 797994533 ecr 515500157], length 0
+>         0x0000:  6263 de76 393f fe00 0000 0101 0800 4500  bc.v9?........E.
+>         0x0010:  0034 1dd5 4000 3306 e327 c6d3 6fc2 8ac5  .4..@.3..'..o...
+>         0x0020:  856c 2c26 0016 3e5a 1af1 e3b9 acbd 8010  .l,&..>Z........
+>         0x0030:  01f5 7315 0000 0101 080a 2f90 6e25 1eb9  ..s......./.n%..
+>         0x0040:  e87d                                     .}
+> 20:01:18.089107 IP 198.211.111.194.11302 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 193, win 501, options [nop,nop,TS val 797994533 ecr 515500157], length 0
+>         0x0000:  6263 de76 393f fe00 0000 0101 0800 4500  bc.v9?........E.
+>         0x0010:  0034 1dd6 4000 3306 e326 c6d3 6fc2 8ac5  .4..@.3..&..o...
+>         0x0020:  856c 2c26 0016 3e5a 1af1 e3b9 acfd 8010  .l,&..>Z........
+>         0x0030:  01f5 72d5 0000 0101 080a 2f90 6e25 1eb9  ..r......./.n%..
+>         0x0040:  e87d                                     .}
+> 20:01:18.090026 IP 198.211.111.194.11302 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 321, win 501, options [nop,nop,TS val 797994533 ecr 515500157], length 0
+>         0x0000:  6263 de76 393f fe00 0000 0101 0800 4500  bc.v9?........E.
+>         0x0010:  0034 1dd7 4000 3306 e325 c6d3 6fc2 8ac5  .4..@.3..%..o...
+>         0x0020:  856c 2c26 0016 3e5a 1af1 e3b9 ad7d 8010  .l,&..>Z.....}..
+>         0x0030:  01f5 7255 0000 0101 080a 2f90 6e25 1eb9  ..rU....../.n%..
+>         0x0040:  e87d                                     .}
+> 20:01:18.090026 IP 198.211.111.194.11302 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 385, win 501, options [nop,nop,TS val 797994533 ecr 515500157], length 0
+>         0x0000:  6263 de76 393f fe00 0000 0101 0800 4500  bc.v9?........E.
+>         0x0010:  0034 1dd8 4000 3306 e324 c6d3 6fc2 8ac5  .4..@.3..$..o...
+>         0x0020:  856c 2c26 0016 3e5a 1af1 e3b9 adbd 8010  .l,&..>Z........
+>         0x0030:  01f5 7215 0000 0101 080a 2f90 6e25 1eb9  ..r......./.n%..
+>         0x0040:  e87d                                     .}
+> 20:01:18.100914 IP 67.207.67.3.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.55155: 37216 NXDomain 0/1/1 (124)
+>         0x0000:  6263 de76 393f fe00 0000 0101 0800 4500  bc.v9?........E.
+>         0x0010:  0098 4c4a 0000 3c11 9b07 43cf 4303 8ac5  ..LJ..<...C.C...
+>         0x0020:  856c 0035 d773 0084 c4ec 9160 8183 0001  .l.5.s.....`....
+....: command not found
+0x0030:: command not found
+0x0040:: command not found
+-bash: command substitution: line 4: syntax error near unexpected token `)'
+-bash: command substitution: line 4: `        0x0050:  7270 6100 000c 0001 0000 2902 0000 0000  rpa.......).....'
+0x0020:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0030:  0000 0001 0001 0331 3934 0331 3131 0332  .......194.111.2
+0x0030:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0040:  3131 0331 3938 0769 6e2d 6164 6472 0461  11.198.in-addr.a
+0x0040:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0050:  7270 6100 000c 0001 c010 0006 0001 0000  rpa.............
+0x0050:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0060:  0708 0037 036e 7331 0c64 6967 6974 616c  ...7.ns1.digital
+0x0060:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0070:  6f63 6561 6e03 636f 6d00 0a68 6f73 746d  ocean.com..hostm
+0x0070:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0080:  6173 7465 72c0 1059 aacc 6c00 002a 3000  aster..Y..l..*0.
+0x0080:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0090:  000e 1000 093a 8000 0007 0800 0029 0200  .....:.......)..
+-bash: syntax error near unexpected token `)'
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x00a0:  0000 0000 0000                           ......
+0x00a0:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# 20:01:18.100915 IP 67.207.67.3.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.59829: 65416 NXDomain 0/1/1 (124)
+-bash: syntax error near unexpected token `('
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0000:  6263 de76 393f fe00 0000 0101 0800 4500  bc.v9?........E.
+0x0000:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0010:  0098 4c4b 0000 3c11 9b06 43cf 4303 8ac5  ..LK..<...C.C...
+-bash: ...C.C...: No such file or directory
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0020:  856c 0035 e9b5 0084 4482 ff88 8183 0001  .l.5....D.......
+0x0020:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0030:  0000 0001 0001 0331 3934 0331 3131 0332  .......194.111.2
+0x0030:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0040:  3131 0331 3938 0769 6e2d 6164 6472 0461  11.198.in-addr.a
+0x0040:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0050:  7270 6100 000c 0001 c010 0006 0001 0000  rpa.............
+0x0050:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0060:  0708 0037 036e 7331 0c64 6967 6974 616c  ...7.ns1.digital
+0x0060:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0070:  6f63 6561 6e03 636f 6d00 0a68 6f73 746d  ocean.com..hostm
+0x0070:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0080:  6173 7465 72c0 1059 aacc 6c00 002a 3000  aster..Y..l..*0.
+0x0080:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0090:  000e 1000 093a 8000 0007 0800 0029 0200  .....:.......)..
+-bash: syntax error near unexpected token `)'
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x00a0:  0000 0000 0000                           ......
+0x00a0:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# 20:01:18.101221 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.55155 > 67.207.67.3.domain: 37216+ PTR? 194.111.211.198.in-addr.arpa. (46)
+-bash: syntax error near unexpected token `('
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0000:  fe00 0000 0101 6263 de76 393f 0800 4500  ......bc.v9?..E.
+0x0000:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0010:  004a f459 4000 4011 af45 8ac5 856c 43cf  .J.Y@.@..E...lC.
+0x0010:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0020:  4303 d773 0035 0036 974b 9160 0100 0001  C..s.5.6.K.`....
+>         0x0030:  0000 0000 0000 0331 3934 0331 3131 0332  .......194.111.2
+>         0x0040:  3131 0331 3938 0769 6e2d 6164 6472 0461  11.198.in-addr.a
+>         0x0050:  7270 6100 000c 0001                      rpa.....
+> 20:01:18.101336 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.59829 > 67.207.67.3.domain: 65416+ PTR? 194.111.211.198.in-addr.arpa. (46)
+>         0x0000:  fe00 0000 0101 6263 de76 393f 0800 4500  ......bc.v9?..E.
+>         0x0010:  004a f45a 4000 4011 af44 8ac5 856c 43cf  .J.Z@.@..D...lC.
+>         0x0020:  4303 e9b5 0035 0036 974b ff88 0100 0001  C....5.6.K......
+>         0x0030:  0000 0000 0000 0331 3934 0331 3131 0332  .......194.111.2
+>         0x0040:  3131 0331 3938 0769 6e2d 6164 6472 0461  11.198.in-addr.a
+>         0x0050:  7270 6100 000c 0001                      rpa.....
+> 20:01:18.102549 IP 67.207.67.3.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.55155: 37216 NXDomain 0/1/0 (113)
+>         0x0000:  6263 de76 393f fe00 0000 0101 0800 4500  bc.v9?........E.
+>         0x0010:  008d 4c4c 0000 3c11 9b10 43cf 4303 8ac5  ..LL..<...C.C...
+>         0x0020:  856c 0035 d773 0079 c72c 9160 8183 0001  .l.5.s.y.,.`....
+....: command not found
+0x0030:: command not found
+0x0040:: command not found
+0x0050:: command not found
+-bash: command substitution: line 5: syntax error near unexpected token `('
+-bash: command substitution: line 5: `20:01:18.101336 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.59829 > 67.207.67.3.domain: 65416+ PTR? 194.111.211.198.in-addr.arpa. (46)'
+0x0020:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0030:  0000 0001 0000 0331 3934 0331 3131 0332  .......194.111.2
+0x0030:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0040:  3131 0331 3938 0769 6e2d 6164 6472 0461  11.198.in-addr.a
+0x0040:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0050:  7270 6100 000c 0001 c010 0006 0001 0000  rpa.............
+0x0050:: command not found
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#         0x0060:  0708 0037 036e 7331 0c64 6967 6974 616c  ...7.ns1.digital
