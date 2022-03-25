@@ -1,0 +1,5 @@
+1)I tested the current path and directory using the basename() function and displayed the contents if they were correct; otherwise, they were not displayed.
+
+2)I utilise the relevang functions - file exists() - to verify and ensure that the file requested is truly available, using the path variable as input.
+
+3) Since files usually conclude with an extension after a dot, I checked the for filename. In the parameter, look for a dot.

