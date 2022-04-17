@@ -1,0 +1,3 @@
+Normally <script>  embed a client-side script meanwhile the
+
+ HTML entity is a piece of text that start with an  '&' and ends with a  ';'.

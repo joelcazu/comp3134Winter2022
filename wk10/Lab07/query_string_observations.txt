@@ -1,0 +1,7 @@
+1)What I observed once I type a valid english word its display the definition of that word.
+
+2)I observed that No results found to that word.
+
+3)It's display the result related to Hello in different category.
+
+4)It's display the resul of <script>alert(%27hello%27)</script> in different category.
