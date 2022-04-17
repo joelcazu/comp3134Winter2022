@@ -1,0 +1,1 @@
+Blank screen with no text , php probably couldnt echo the text file.
